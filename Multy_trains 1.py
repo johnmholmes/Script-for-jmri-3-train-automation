@@ -1,3 +1,5 @@
+#inspired by Dave Sand see https://groups.io/g/jmriusers/message/168431
+
 import java
 import jmri
 
